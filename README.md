@@ -1,18 +1,28 @@
 # 👋🏻 Hi, I’m Himanshu Jagtap
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/himjthechangeagent/)
+I'm a Mid-level Data Analyst & Tableau Developer
 
 
-### Check me out applying my data analytics skills to solve business problems
+|Skillset | Level `1-5`| Certifications |
+| ------------- | ------------- | ------------- |
+| SQL  | `4` | [DataCamp-Intermediate SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/fe598b4b6d5376c568691bc53b80d451db4def93), [HackerRank-SQL(Intermediate)](https://www.hackerrank.com/certificates/d40df339c099), [Google Business Intelligence](https://coursera.org/share/b80a7e28c24018d40de4a2c9f25a2c0a)  |
+| Tableau  | `4` | [Google Business Intelligence](https://coursera.org/share/b80a7e28c24018d40de4a2c9f25a2c0a)  |
+| Python - Data Analysis  | `3` | [Introduction to Data Science in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/f5720da86492e10b54c232386c1f68ffd4a23212)|
+| Python - Programming  | `2` | [Introduction to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/cc775c02b652c54ddd571da5d4ac835a78212322) |
+| Excel  | `3` | - |
+| Qualtrics CoreXM  | `3` | - |
 
-[Tableau Public](https://public.tableau.com/app/profile/himanshu.jagtap/vizzes) 📊 Dynamic Dashboards
+
+### Check out my work
+
+📊 Dynamic Dashboards on [Tableau Public](https://public.tableau.com/app/profile/himanshu.jagtap/vizzes) 
 + Facebook Ads Analytics
 + Google Ads Performance
 + Games Industry Guide
 + And many more ...
 
-[DataCamp Workspace](https://app.datacamp.com/workspace/w/b5bae555-ed3a-45c8-a7f9-6e21b2de34b9) My Python NoteBook👨🏻‍💻 `NumPy` `pandas` `matplotlib`
+👨🏻‍💻 My Python NoteBook on [DataCamp Workspace](https://app.datacamp.com/workspace/w/b5bae555-ed3a-45c8-a7f9-6e21b2de34b9)  `NumPy` `pandas` `matplotlib`
 
-A few of the business problems I solved are - 
+A few of many business tasks/problems I solved are - 
 + Compare YoY price fluctuations in conventional and organic avocado. `Aggregation` `Filtering` `Grouping` `Visualization`
 + Analyze the sales of all the stores in walmart. `Aggregation` `Statistics`
 + Compare the yearly temperatures in Toronto and Rome. `Aggregation` `Subsetting` `Grouping` `Visualization`

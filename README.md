@@ -4,8 +4,7 @@
 
 ### Check me out applying my data analytics skills to solve business problems
 
-[Tableau Public](https://public.tableau.com/app/profile/himanshu.jagtap/vizzes) 📊 Dynamic Dashboards \
-Checkout my dynamic, engaging, & interactive dashboard - 
+[Tableau Public](https://public.tableau.com/app/profile/himanshu.jagtap/vizzes) 📊 Dynamic Dashboards
 + Facebook Ads Analytics
 + Google Ads Performance
 + Games Industry Guide

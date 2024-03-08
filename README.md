@@ -4,7 +4,7 @@ Let's connect on 💼 [LinkedIn](https://www.linkedin.com/in/datawizhimj/)
 
 ## My Data Analytics Portfolio
 
-### 👨🏻‍💻**My SQL Notebook** on [DataCamp Workspace](https://app.datacamp.com/workspace/w/64a137b5-c0dc-4719-8b82-1c7693b3cfb6)
+### 👨🏻‍💻**My SQL Notebook** on [DataCamp Workspace](https://app.datacamp.com/workspace/w/64a137b5-c0dc-4719-8b82-1c7693b3cfb6/edit)
 Watch me apply expert-level SQL DQL skills to solve Business Problems using advanced-level SQL concepts such as: \
 `Multiple JOINS` `Subquery` `CASE` `Temp Table` `CTEs` `Window Fns` `Stored Procedure` `Aggregation` `Grouping` 
    
@@ -16,7 +16,7 @@ Watch me apply expert-level SQL DQL skills to solve Business Problems using adva
 + Google Ads Performance
 + And many more ...
 
-### 👨🏻‍💻 **My Python NoteBook** on [DataCamp Workspace](https://app.datacamp.com/workspace/w/b5bae555-ed3a-45c8-a7f9-6e21b2de34b9)
+### 👨🏻‍💻 **My Python NoteBook** on [DataCamp Workspace](https://app.datacamp.com/workspace/w/b5bae555-ed3a-45c8-a7f9-6e21b2de34b9/edit)
 `NumPy` `pandas` `matplotlib` `EDA` `Data Prep` `Visualization` \
 Watch me apply intermediate-level Python coding skills to perform data tasks such as:
 + Compare YoY price fluctuations in conventional and organic avocado. `Aggregation` `Filtering` `Grouping` `Visualization`

@@ -7,7 +7,7 @@ Certifications:
 
 ## My Data Analytics Portfolio
 
-### Divvy Bikes: An end-to-end BI Project 
+### Divvy Bikes: An end-to-end BI Project [GitHub Repo](https://github.com/HimJ379PRO/Divvy_Bikes_BI_Project)
 `Python` `SQL` `Tableau` `Excel` `Git`
 + Developed a PostgreSQL database having trips, stations, and weather tables, extracting 8 datasets with millions of
 records from the official website and leveraging Python and SQL to analyze, clean, transform, and load data into a database.
